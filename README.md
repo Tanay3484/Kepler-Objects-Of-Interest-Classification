@@ -8,6 +8,3 @@ The end goal of this project is to create a classification model to predict the 
 Dataset Used : Kepler Objects of Interest (Dataset link : https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative)
 
 ---
-
-# Project Phases: 
-1) Exploratory Data Analysis (Completed) : Date - 08/09/2022
